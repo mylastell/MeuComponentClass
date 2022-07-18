@@ -1,0 +1,2 @@
+# MeuComponentClass
+Created with CodeSandbox
